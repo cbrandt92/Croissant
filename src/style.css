@@ -9,3 +9,17 @@ h1 {
 p {
   text-align: center;
 }
+
+.photo-link,
+.contact-link,
+.homepage-link {
+  display: block;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 30px auto;
+  max-width: 100%;
+  border-radius: 10px;
+}
