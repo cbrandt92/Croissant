@@ -11,16 +11,13 @@ p {
   text-align: center;
 }
 
-.photo-link,
-.contact-link,
-.homepage-link {
-  display: flex;
-  justify-content: center;
-}
-
-img {
+.photo {
   display: block;
   margin: 30px auto;
   max-width: 100%;
   border-radius: 10px;
+}
+
+footer {
+  text-align: center;
 }
